@@ -1,1 +1,1 @@
-<h1>[Link here to open my Portfolio](https://gustavottc.github.io/Portfolio/).</h1>
+<center><h2> -> [Link here to open my Portfolio](https://gustavottc.github.io/Portfolio/).</h2></center>
